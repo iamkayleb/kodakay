@@ -19,8 +19,8 @@ ScrollReveal({
     duration: 2500,
     delay: 400
 })
-ScrollReveal().reveal('.hi-text', {delay: 500})
-ScrollReveal().reveal('h1', {delay: 400})
-ScrollReveal().reveal('img', {delay: 500})
+ScrollReveal().reveal('.hi-text', {delay: 400})
+// ScrollReveal().reveal('h1', {delay: 400})
+ScrollReveal().reveal('img', {delay: 400})
 ScrollReveal().reveal('i', {delay: 400})
 
